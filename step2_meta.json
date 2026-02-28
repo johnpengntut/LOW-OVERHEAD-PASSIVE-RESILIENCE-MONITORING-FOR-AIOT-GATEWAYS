@@ -1,0 +1,17 @@
+{
+  "W_seconds": 300,
+  "stride_seconds": 30,
+  "num_windows_total": 477,
+  "num_train": 286,
+  "num_val": 48,
+  "num_test": 143,
+  "split_by_window_center_time": true,
+  "train_end": "2025-05-29 01:24:41.347167",
+  "val_end": "2025-05-29 01:48:29.347167",
+  "train_interval_start": "2025-05-28 22:59:23.347167",
+  "train_interval_end": "2025-05-29 01:26:53.347167",
+  "global_p99_train_ms": {
+    "Tde": 0.14673,
+    "Tis": 1965.2991199999994
+  }
+}
